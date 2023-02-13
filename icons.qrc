@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/navigation bar">
+        <file>assets/icons/grid.svg</file>
+        <file>assets/icons/home (1).svg</file>
+        <file>assets/icons/moon.svg</file>
+    </qresource>
+    <qresource prefix="/map container">
+        <file>assets/icons/chevrons-down.svg</file>
+        <file>assets/icons/map-marker-3.svg</file>
+        <file>assets/icons/user.svg</file>
+    </qresource>
+    <qresource prefix="/main content">
+        <file>assets/icons/bell.svg</file>
+        <file>assets/icons/search.svg</file>
+    </qresource>
+    <qresource prefix="/universal">
+        <file>assets/icons/message-square.svg</file>
+        <file>assets/icons/star.svg</file>
+    </qresource>
+</RCC>

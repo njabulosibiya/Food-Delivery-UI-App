@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/user"/>
+    <qresource prefix="/driver"/>
+    <qresource prefix="/food"/>
+</RCC>

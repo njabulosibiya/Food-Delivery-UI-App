@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/main">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/component">
+        <file>NavigationBar.qml</file>
+        <file>MapContainer.qml</file>
+        <file>MapContainerElementEST.qml</file>
+        <file>MapContainerElementDriverDetails.qml</file>
+        <file>ProductNavigationContainer.qml</file>
+    </qresource>
+    <qresource prefix="/custom controls">
+        <file>MapContainerControlLocationButton.qml</file>
+        <file>ApplicationButtonSmall.qml</file>
+        <file>NavigationBarButton.qml</file>
+        <file>ProductNavigationSearchBar.qml</file>
+        <file>MainContentHorizontalListView.qml</file>
+        <file>MainContentProductListView.qml</file>
+    </qresource>
+</RCC>
